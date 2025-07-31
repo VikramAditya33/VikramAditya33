@@ -1,7 +1,4 @@
-<p align="center">
-  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="180px"/>
-</p>
-<hr>
+
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Vikram Aditya Verma</h1>
 <h3 align="center">Full Stack Developer | AI/ML Enthusiast | Problem Solver</h3>
