@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Vikram Aditya Verma</h1>
-<h3 align="center">Full Stack Developer | AI/ML Enthusiast | Problem Solver</h3>
+<h3 align="center">Full Stack Developer | AI/ML & Web3 Enthusiast | Problem Solver</h3>
 
 <div align="center">
   <img src="https://readme-typing-svg.vercel.app/?lines=Building%20Impactful%20Solutions;Always%20Learning%20%7C%20Always%20Growing;Passionate%20About%20Tech&center=true&width=380&height=50">
@@ -30,8 +30,8 @@
 ✔ I'm a **19-year-old developer** from India<br>
 ✔ I'm currently working on **Full-Stack Applications** (backend-focused)<br>
 ✔ I'm learning **AI-powered workflows** and **automation**<br>
-✔ I'm looking to collaborate on **Web3 Projects**, **SaaS Solutions** & **Open Source Contributions**<br>
-✔ I'm passionate about **Problem Solving**, **Backend Development**, and **AI/ML**<br>
+✔ I'm looking to collaborate on **Fullstack Projects**, **SaaS Solutions** & **Open Source Contributions**<br>
+✔ I'm passionate about **Fullstack Development**, **Web3**, and **AI/ML**<br>
 ✔ Ask me about anything, I am happy to help!<br>
 ✔ Fun fact: _I code better with music_ 🎵<br>
 
@@ -88,8 +88,8 @@
 
 #### Want to connect?
 
-Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/vikram-aditya-verma-b80561367/) or send me an [email](mailto:vikramadityaverma87@gmail.com). I'm always interested in collaborating on exciting projects and meeting fellow developers!
+Feel free to reach out to me on [Twitter/X](https://x.com/ViXkrm) or [LinkedIn](https://www.linkedin.com/in/vikram-aditya-verma-b80561367/) or send me an [email](mailto:vikramadityaverma87@gmail.com). I'm always interested in collaborating on exciting projects and meeting fellow developers!
 
 ---
 
-Last Updated: February 2025
+Last Updated: July 2025
