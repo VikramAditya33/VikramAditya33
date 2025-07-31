@@ -25,6 +25,8 @@ jobs:
           background_color: "#0d1117"
           grid_color: "#21262d"
           contribution_color: "#39d353"
+          show_contributions: false
+          show_months: false
 
 
       - name: push pacman-contribution-graph.svg to the output branch
