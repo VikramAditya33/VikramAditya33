@@ -94,14 +94,6 @@
   <img src="https://nirzak-streak-stats.vercel.app/?user=VikramAditya33&theme=aura&hide_border=false" alt="GitHub Streak" />
 </div>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VikramAditya33&theme=shadow_blue&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-</div>
-
-<hr>
-
 
 
 ## 💭 Random Dev Quote
