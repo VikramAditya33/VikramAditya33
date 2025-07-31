@@ -76,14 +76,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=VikramAditya33&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=VikramAditya33&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VikramAditya33&theme=shadow_blue&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-</div>
-
-<hr>
-
 
 
 ## 💭 Random Dev Quote
@@ -97,10 +89,6 @@
 #### Want to connect?
 
 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/vikram-aditya-verma-b80561367/) or send me an [email](mailto:vikramadityaverma87@gmail.com). I'm always interested in collaborating on exciting projects and meeting fellow developers!
-
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=VikramAditya33&icon=3&color=0" alt="Profile Views" />
-</div>
 
 ---
 
