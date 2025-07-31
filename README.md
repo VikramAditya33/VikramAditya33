@@ -102,9 +102,7 @@
 
 <hr>
 
-<div align="center">
-  <img src="https://github-readme-3d-profile-card.vercel.app/api?username=VikramAditya33&theme=dark&background=0d1117&border=39d353&radius=8" alt="3d-profile-card" />
-</div>
+
 
 ## 💭 Random Dev Quote
 
