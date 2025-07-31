@@ -103,11 +103,7 @@
 <hr>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/VikramAditya33/VikramAditya33/output/github-snake-dark.svg" alt="github-snake" />
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/VikramAditya33/VikramAditya33/output/pacman-contribution-graph.svg" alt="pacman-contribution-graph" style="background-color: #0d1117; border-radius: 8px; padding: 10px;" />
+  <img src="https://raw.githubusercontent.com/VikramAditya33/VikramAditya33/output/hologram-contribution-graph.svg" alt="hologram-contribution-graph" style="background-color: #0d1117; border-radius: 8px; padding: 10px;" />
 </div>
 
 ## 💭 Random Dev Quote

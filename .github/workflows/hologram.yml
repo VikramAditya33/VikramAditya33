@@ -1,4 +1,4 @@
-name: Generate pacman animation
+name: Generate hologram animation
 
 on:
   schedule: # execute every 12 hours
@@ -18,18 +18,16 @@ jobs:
     timeout-minutes: 5
 
     steps:
-      - name: generate pacman-contribution-graph.svg
-        uses: abozanona/pacman-contribution-graph@main
+      - name: generate hologram-contribution-graph.svg
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          github_user_name: ${{ github.repository_owner }}
-          background_color: "#0d1117"
-          grid_color: "#21262d"
-          contribution_color: "#39d353"
-          show_contributions: false
-          show_months: false
+          USERNAME: ${{ github.repository_owner }}
+          THEME: 'hologram'
+          RESPONSIVE: true
 
-
-      - name: push pacman-contribution-graph.svg to the output branch
+      - name: push hologram-contribution-graph.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
