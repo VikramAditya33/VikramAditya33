@@ -31,7 +31,7 @@
 ✔ I'm currently working on **Full-Stack Applications** (backend-focused)<br>
 ✔ I'm learning **AI-powered workflows** and **automation**<br>
 ✔ I'm looking to collaborate on **Web3 Projects**, **SaaS Solutions** & **Open Source Contributions**<br>
-✔ I'm passionate about **Fullstack Development**, **Web3**, and **AI/ML**<br>
+✔ I'm passionate about **Problem Solving**, **Backend Development**, and **AI/ML**<br>
 ✔ Ask me about anything, I am happy to help!<br>
 ✔ Fun fact: _I code better with music_ 🎵<br>
 
@@ -47,31 +47,22 @@
 - 🏆 Make it to **Y Combinator 2026**
 - 🌟 Create tools that make a difference
 
-<img width="30px" src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif">&nbsp;**_Languages & Tools I Know..._**
+## 💻 Tech Stack:
 
-<p align="left">
-  <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
-  <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript"/></code>
-  <code><img height="50" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg"></code>
-  <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></code>
-  <code><img height="50" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg"></code>
-  <code><img height="50" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg"></code>
-  <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"></code>
-  <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"></code>
-  <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"></code>
-  <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code>
-  <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></code>
-  <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"></code>
-  <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg"></code>
-  <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg"></code>
-  <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"></code>
-  <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg"></code>
-  <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg"></code>
-  <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg"></code>
-  <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg"></code>
-  <code><img height="50" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg"></code>
-  <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg"></code>
-</p>
+### 🎨 Frontend Technologies
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=plastic&logo=redux&logoColor=white) ![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=plastic&logo=radix-ui&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white)
+
+### ⚙️ Backend Technologies
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens)
+
+### 🗄️ Databases & Cloud
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=plastic&logo=supabase&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white)
+
+### 🛠️ Programming Languages
+![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white)
+
+### 🔧 Tools & Platforms
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=plastic&logo=Prisma&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white)
 
 <hr>
 
@@ -81,18 +72,9 @@
  <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="50px" alt="GitHub-Status"/>
 </p>
 
-<div style="display:flex; flex-wrap:wrap; justify-content:space-around;">
-  <span width="100%" style="align:left;" >
-    <img style="height:100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=VikramAditya33&show_icons=true&locale=en&layout=compact&theme=aura" alt="VikramAditya33" />
-  </span>
-  <span width="100%">
-    <img style="height:100%;" src="https://github-readme-stats.vercel.app/api?username=VikramAditya33&show_icons=true&locale=en&theme=aura" alt="VikramAditya33">
-  </span>
-</div>
-
-<div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=VikramAditya33&theme=aura&hide_border=false" alt="GitHub Streak" />
-</div>
+![](https://github-readme-stats.vercel.app/api?username=VikramAditya33&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=VikramAditya33&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=VikramAditya33&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 
@@ -114,7 +96,7 @@
 
 #### Want to connect?
 
-Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/vikram-aditya-verma-b80561367/) or [Twitter/X](https://x.com/ViXkrm) send me an [email](mailto:vikramadityaverma87@gmail.com). I'm always interested in collaborating on exciting projects and meeting fellow developers!
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/vikram-aditya-verma-b80561367/) or send me an [email](mailto:vikramadityaverma87@gmail.com). I'm always interested in collaborating on exciting projects and meeting fellow developers!
 
 <div align="center">
   <img src="https://visitcount.itsvg.in/api?id=VikramAditya33&icon=3&color=0" alt="Profile Views" />
@@ -122,4 +104,4 @@ Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/vikram-ad
 
 ---
 
-Last Updated: July 2025
+Last Updated: February 2025
