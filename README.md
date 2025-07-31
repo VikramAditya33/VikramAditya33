@@ -116,10 +116,6 @@
 
 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/vikram-aditya-verma-b80561367/) or [Twitter/X](https://x.com/ViXkrm) send me an [email](mailto:vikramadityaverma87@gmail.com). I'm always interested in collaborating on exciting projects and meeting fellow developers!
 
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=VikramAditya33&icon=3&color=0" alt="Profile Views" />
-</div>
-
 ---
 
 Last Updated: July 2025
