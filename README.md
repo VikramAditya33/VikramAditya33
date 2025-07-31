@@ -7,12 +7,7 @@
   <img src="https://readme-typing-svg.vercel.app/?lines=Building%20Impactful%20Solutions;Always%20Learning%20%7C%20Always%20Growing;Passionate%20About%20Tech&center=true&width=380&height=50">
 </div>
 
-<p align="center">
-  <a target="_blank" href="https://www.linkedin.com/in/vikram-aditya-verma-b80561367/"><img height="30" width="40" align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="vikram-linkedin" /></a>
-  <a target="_blank" href="mailto:vikramadityaverma87@gmail.com"><img height="30" width="40" align="center" src="https://simpleicons.org/icons/gmail.svg"/></a>
-  <a target="_blank" href="https://github.com/VikramAditya33"><img height="30" width="40" align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="VikramAditya33"/></a>
-  <a target="_blank" href="https://x.com/ViXkrm"><img height="30" width="40" align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/x.svg" alt="vikram-x"/></a>
-</p>
+
 
 <p align="center">
   <em>
