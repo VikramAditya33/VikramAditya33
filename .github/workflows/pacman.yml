@@ -22,6 +22,7 @@ jobs:
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
+          theme: dark
 
 
       - name: push pacman-contribution-graph.svg to the output branch
