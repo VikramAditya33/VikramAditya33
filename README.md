@@ -31,7 +31,7 @@
 ✔ I'm currently working on **Full-Stack Applications** (backend-focused)<br>
 ✔ I'm learning **AI-powered workflows** and **automation**<br>
 ✔ I'm looking to collaborate on **Web3 Projects**, **SaaS Solutions** & **Open Source Contributions**<br>
-✔ I'm passionate about **Problem Solving**, **Backend Development**, and **AI/ML**<br>
+✔ I'm passionate about **Fullstack Development**, **Web3**, and **AI/ML**<br>
 ✔ Ask me about anything, I am happy to help!<br>
 ✔ Fun fact: _I code better with music_ 🎵<br>
 
@@ -116,7 +116,7 @@
 
 #### Want to connect?
 
-Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/vikram-aditya-verma-b80561367/) or send me an [email](mailto:vikramadityaverma87@gmail.com). I'm always interested in collaborating on exciting projects and meeting fellow developers!
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/vikram-aditya-verma-b80561367/) or [Twitter/X](https://x.com/ViXkrm) send me an [email](mailto:vikramadityaverma87@gmail.com). I'm always interested in collaborating on exciting projects and meeting fellow developers!
 
 <div align="center">
   <img src="https://visitcount.itsvg.in/api?id=VikramAditya33&icon=3&color=0" alt="Profile Views" />
@@ -124,4 +124,4 @@ Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/vikram-ad
 
 ---
 
-Last Updated: February 2025
+Last Updated: July 2025
