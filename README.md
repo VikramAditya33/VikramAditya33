@@ -103,7 +103,7 @@
 <hr>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/VikramAditya33/VikramAditya33/output/hologram-contribution-graph.svg" alt="hologram-contribution-graph" style="background-color: #0d1117; border-radius: 8px; padding: 10px;" />
+  <img src="https://github-readme-3d-profile-card.vercel.app/api?username=VikramAditya33&theme=dark&background=0d1117&border=39d353&radius=8" alt="3d-profile-card" />
 </div>
 
 ## 💭 Random Dev Quote
