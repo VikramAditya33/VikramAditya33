@@ -111,7 +111,7 @@
 ## 🎮 Pacman Contribution Graph
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/VikramAditya33/VikramAditya33/output/pacman-contribution-graph.svg" alt="pacman-contribution-graph" style="background-color: transparent;" />
+  <img src="https://raw.githubusercontent.com/VikramAditya33/VikramAditya33/output/pacman-contribution-graph.svg" alt="pacman-contribution-graph" style="background-color: #0d1117; border-radius: 8px; padding: 10px;" />
 </div>
 
 ## 💭 Random Dev Quote
