@@ -26,26 +26,15 @@
 
 <img width="30px" src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif">&nbsp;**_Talking about Personal Stuffs..._**
 
-✔ Pronouns: **_He/Him_** 😉<br>
+✔ Pronouns: **_He/Him_** <br>
 ✔ I'm a **19-year-old developer** from India<br>
 ✔ I'm currently working on **Full-Stack Applications** (backend-focused)<br>
 ✔ I'm learning **AI-powered workflows** and **automation**<br>
 ✔ I'm looking to collaborate on **Fullstack Projects**, **SaaS Solutions** & **Open Source Contributions**<br>
 ✔ I'm passionate about **Fullstack Development**, **Web3**, and **AI/ML**<br>
 ✔ Ask me about anything, I am happy to help!<br>
-✔ Fun fact: _I code better with music_ 🎵<br>
+✔ Fun fact: _I code better with music_ <br>
 
-### 🎯 **What I'm Currently Working On**
-- 🔧 Building scalable full-stack applications (backend-focused)
-- 🤖 Experimenting with AI-powered workflows and automation
-- 📚 Documenting my tech journey and personal growth
-- 🌐 Contributing to open-source projects
-
-### 🎪 **My Goals**
-- 💼 Land a **$100K+ remote developer role** in Web3/Backend
-- 🚀 Build and scale my own **SaaS product**
-- 🏆 Make it to **Y Combinator 2026**
-- 🌟 Create tools that make a difference
 
 ## 💻 Tech Stack:
 
@@ -66,15 +55,6 @@
 
 <hr>
 
-<p align="center">
- <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="50px" alt="GitHub-Status"/>
- <i style="font-size:30px !important;"><b>GitHub Stats</b></i>
- <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="50px" alt="GitHub-Status"/>
-</p>
-
-![](https://github-readme-stats.vercel.app/api?username=VikramAditya33&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=VikramAditya33&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=VikramAditya33&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 
@@ -92,4 +72,4 @@ Feel free to reach out to me on [Twitter/X](https://x.com/ViXkrm) or [LinkedIn](
 
 ---
 
-Last Updated: July 2025
+Last Updated: September 2025
