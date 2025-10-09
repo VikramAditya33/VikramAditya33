@@ -20,7 +20,7 @@
 ✔ I'm learning **DevOps** and **automation**<br>
 ✔ I'm looking to collaborate on **Fullstack Projects**, **SaaS Solutions** & **Open Source Contributions**<br>
 ✔ I'm passionate about **Fullstack Development**, **Web3**, and **AI/ML**<br>
-✔ Ask me about anything, I am happy to help!<br>
+✔ Ask me about anything, I am always happy to help!<br>
 ✔ Fun fact: _I can sing too_ <br>
 
 
