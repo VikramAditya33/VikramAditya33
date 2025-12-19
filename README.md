@@ -60,4 +60,4 @@ Feel free to reach out to me on [Twitter/X](https://x.com/ViXkrm) or [LinkedIn](
 
 ---
 
-Last Updated: September 2025
+Last Updated: December 2025
