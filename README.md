@@ -1,4 +1,4 @@
-# Yoo! This is Vikram Aditya Verma, I try to build cool stuff.
+# Yoo! I'm Vikram Aditya Verma, I try to build cool stuff.
 
 
 ### Want to connect?
