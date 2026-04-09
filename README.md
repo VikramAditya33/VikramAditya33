@@ -2,7 +2,7 @@
 
 ### Interesting Projects I'm Working on:
 - [uWestJs](https://github.com/VikramAditya33/uWestJs) - My own open source repository and an npm package
-- [Offline Gutenberg](https://github.com/openzim/gutenberg) - Contributing and Collaborating on this repository (OpenZIM/Kiwix)
+- [Offline Gutenberg](https://github.com/openzim/gutenberg) - Contributing and Collaborating in this repository (OpenZIM/Kiwix)
 ### Weird Hobbies/Talent I have:
 - I can probably sing
 - I can probably draw
