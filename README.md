@@ -8,7 +8,7 @@
 - I can probably draw
 - I can't sleep more than 6 hours
 - I always have a story to tell
-- Currently working at Google Summer of Code'26 @[KIWIX/OpenZIM](https://github.com/openzim)
+- Google Summer of Code'26 Mentee @[KIWIX/OpenZIM](https://github.com/openzim)
 
 ### Want to connect?
 Feel free to reach out to me on [Twitter/X](https://x.com/ViXkrm) or [LinkedIn](https://www.linkedin.com/in/vikram-aditya-verma-b80561367/) or send me an [email](mailto:vikramadityaverma87@gmail.com). I'm always interested in collaborating on exciting projects and meeting fellow developers :)
