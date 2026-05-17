@@ -6,8 +6,6 @@
 ### Notable Hobbies/Work I have:
 - I can probably sing
 - I can probably draw
-- I can't sleep more than 6 hours
-- I always have a story to tell
 - Google Summer of Code'26 Mentee @[Kiwix/OpenZIM](https://github.com/openzim)
 
 ### Want to connect?
