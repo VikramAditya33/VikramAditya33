@@ -9,4 +9,4 @@
 - Google Summer of Code'26 Mentee [Kiwix/OpenZIM](https://github.com/openzim)
 
 ### Want to connect?
-Feel free to reach out to me on [Twitter/X](https://x.com/ViXkrm) or [LinkedIn](https://www.linkedin.com/in/vikram-aditya-verma-b80561367/) or send me an [email](mailto:vikramadityaverma6899@gmail.com). I'm always interested in collaborating on exciting projects and meeting fellow developers :)
+Feel free to reach out to me on [Twitter/X](https://x.com/ViXkrm) or [LinkedIn](https://www.linkedin.com/in/vikram-aditya-verma-b80561367/) or send me an [email](contact.vikramaditya33@gmail.com). I'm always interested in collaborating on exciting projects and meeting fellow developers :)
