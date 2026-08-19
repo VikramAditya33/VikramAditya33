@@ -1,7 +1,7 @@
 # Yoo! I'm Vikram Aditya Verma, I try to build cool stuff.
 
 ### Interesting Projects I'm Working on:
-- [Kwaque](https://github.com/kwaque-org/kwaque) - A self governing, high performance data streaming platform built in C++
+- [Kwaque](https://github.com/kwaque-org/kwaque) - A self governing, high performance distributed data streaming platform built in C++
 - [uWestJs](https://github.com/FOSSFORGE/uWestJs) - High-performance platform adapter (HTTP & WebSocket) for NestJS using μWebSockets
 - [Offline Gutenberg](https://github.com/openzim/gutenberg) - Contributing and Collaborating in this repository (OpenZIM/Kiwix)
 ### Notable Hobbies/Work I have:
